@@ -1,1 +1,1 @@
-# Mini-Project-12_Image-to-text
+# Mini-Project-14-Cosinesimilarity
